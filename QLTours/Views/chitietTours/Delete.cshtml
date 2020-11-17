@@ -1,0 +1,48 @@
+﻿@model QLTours.Models.chitietTour
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>chitietTour</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Thành phố
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diadiem.ThanhPho)
+        </dd>
+
+        <dt>
+            Tên tour
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tour.Ten)
+        </dd>
+
+        <dt>
+            STT địa điểm
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.STTDiaDiem)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

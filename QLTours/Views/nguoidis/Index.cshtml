@@ -1,0 +1,41 @@
+﻿@model IEnumerable<QLTours.Models.nguoidi>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2> Danh sách Người đi</h2>
+
+<p>
+    <h3 class="iop">
+        <button class="btn btn-warning" style="width: 200px"> @Html.ActionLink("Thêm danh sách người đi", "Create", new { StrN = "", StrK = "" }) </button>
+    </h3>
+
+</p>
+<table class="table table-striped table-bordered table-hover">
+    <tr>
+        <th>
+            STT
+        </th>
+        <th>
+            Tên đoàn
+        </th>
+        <th></th>
+    </tr>
+@{int counter = 0; }
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @(++counter)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.doan.Ten)
+        </td>
+        <td>
+            <button class="btn btn-info"> @Html.ActionLink("Edit", "Edit", new { id = item.Id, StrK = "", StrN = "" }) </button>
+            <button class="btn btn-info"> @Html.ActionLink("Delete", "Delete", new { id = item.Id }) </button>
+        </td>
+    </tr>
+}
+
+</table>

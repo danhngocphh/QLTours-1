@@ -1,0 +1,64 @@
+﻿@model QLTours.Models.doan
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>doan</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên tour
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tour.Ten)
+        </dd>
+
+        <dt>
+            Tên đoàn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ten)
+        </dd>
+
+        <dt>
+            Ngày đi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayDi)
+        </dd>
+
+        <dt>
+            Ngày về
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayVe)
+        </dd>
+
+        <dt>
+            Chi tiết chương trình
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChiTietChuongTrinh)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,42 @@
+﻿@model QLTours.Models.nguoidi
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>nguoidi</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên đoàn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.doan.Ten)
+        </dd>
+
+        <dt>
+            Danh sách nhân viên
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DSNhanvien)
+        </dd>
+
+        <dt>
+            Danh sách khách
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DSKhach)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

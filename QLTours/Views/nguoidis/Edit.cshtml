@@ -1,0 +1,74 @@
+﻿@model QLTours.Models.nguoidi
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Chỉnh sửa</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.IdDoan, "Đoàn", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.ListBox("IdDoan", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.IdDoan, "", new { @class = "text-danger" })
+            </div>
+        </div>
+		
+		<div class="form-group">
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DSNhanvien, new { htmlAttributes = new { @class = "form-control", @Value = @ViewBag.StrN, @style="display:none" } })
+                @Html.ValidationMessageFor(model => model.DSNhanvien, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DSKhach, new { htmlAttributes = new { @class = "form-control", @Value = @ViewBag.StrK, @style = "display:none" } })
+                @Html.ValidationMessageFor(model => model.DSKhach, "", new { @class = "text-danger" })
+            </div>
+        </div>
+@*------------------------------------------------------------------------------------------------------------------------*@
+    <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+        <tr>
+            <th width="5%" align="left">
+                @Html.ActionLink("Chỉnh sửa danh sách khách","DSKhachHangEd", new { id = Model.Id, StrN = ViewBag.StrN, StrK = ViewBag.StrK })
+            </th>
+            <th width="5%" align="left">
+                @Html.ActionLink("Chỉnh sửa danh sách nhân viên", "DSNhanVienEd", new { id = Model.Id, StrN = ViewBag.StrN, StrK = ViewBag.StrK })
+            </th>
+        </tr>
+        <tr>
+            <td>
+                @Html.ListBox("DSKhach", null, htmlAttributes: new { @class = "form-control", @disabled = "disabled" })
+            </td>
+            <td>
+                @Html.ListBox("DSNhanVien", null, htmlAttributes: new { @class = "form-control", @disabled = "disabled" })
+            </td>
+
+        </tr>
+    </table>
+@*------------------------------------------------------------------------------------------------------------------------*@
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

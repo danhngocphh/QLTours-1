@@ -1,0 +1,75 @@
+﻿@model IEnumerable<QLTours.Models.khachhang>
+
+@{
+    /**/
+
+    ViewBag.Title = "Index";
+}
+
+<h2> Dánh sách khách hàng </h2>
+
+@using (Html.BeginForm("DSKhachHangEd", "nguoidis", FormMethod.Post, new { iD = ViewBag.Id }))
+{
+    @Html.AntiForgeryToken()
+    <table class="table table-striped table-bordered table-hover">
+        <tr>
+            <th>
+                STT
+            </th>
+            <th>
+                Tên khách hàng
+            </th>
+            <th>
+                Số điện thoại
+            </th>
+            <th>
+                Ngày sinh
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                CMND
+            </th>
+            <th>
+                Thêm vào danh sách
+            </th>
+        </tr>
+        @{ int counter = 0;}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @(++counter)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ten)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SDT)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NgaySinh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CMND)
+                </td>
+
+                <td>
+                    <input type="checkbox" id=@item.SDT name="IdK" value=@item.Id />
+                </td>
+
+            </tr>
+        }
+    </table>
+    <input type="text" name="StrN" value=@ViewBag.StrN style="display:none" />
+    <input type="text" name="StrK" value=@ViewBag.StrK style="display:none" />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Save" class="btn btn-default" />
+        </div>
+    </div>
+}

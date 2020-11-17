@@ -1,0 +1,50 @@
+﻿@model QLTours.Models.gia
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>gia</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tour
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tour.Ten)
+        </dd>
+
+        <dt>
+            Số tiền (Đồng)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SoTien)
+        </dd>
+
+        <dt>
+            Từ ngày
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TuNgay)
+        </dd>
+
+        <dt>
+            Đến ngày
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DenNgay)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

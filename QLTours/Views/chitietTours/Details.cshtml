@@ -1,0 +1,42 @@
+﻿@model QLTours.Models.chitietTour
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>chitietTour</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Thành phố
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diadiem.ThanhPho)
+        </dd>
+
+        <dt>
+            Tên tour
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tour.Ten)
+        </dd>
+
+        <dt>
+            STT địa điểm
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.STTDiaDiem)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

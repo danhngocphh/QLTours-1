@@ -1,0 +1,56 @@
+﻿@model QLTours.Models.chiphi
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>chiphi</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên đoàn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.doan.Ten)
+        </dd>
+
+        <dt>
+            Tên loại chi phí
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.loaichiphi.Ten)
+        </dd>
+
+        <dt>
+            Tổng tiền (Đồng)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+
+        <dt>
+            Chi tiết
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChiTiet)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

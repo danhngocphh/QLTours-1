@@ -1,0 +1,143 @@
+﻿@model List<QLTours.Models.chitietTour>
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm(new { @id = "form", @name = "form1", thanhpho = "", idt = ViewBag.IDTOUR, Saving = "false", count = "0" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Thêm chi tiết tour cho: @ViewBag.TenTour</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model[0].IdDiaDiem, "Thành phố", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("ThanhPho", null, htmlAttributes: new { @class = "form-control", @onchange = "thanhpho = this.value;this.form.submit();" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model[0].IdDiaDiem, "Tên địa điểm", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.ListBox("IdDD", null, htmlAttributes: new { @class = "form-control" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model[0].IdTour, "Các địa điểm tham quan của tour", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.ListBox("chitiettour", null, htmlAttributes: new { @class = "form-control", @disabled = "disabled" })
+            </div>
+        </div>
+
+        <!------------------------------------------------------------------>
+        <div class="form-group">
+            <div class="col-md-10">
+                <div id="Here"></div>
+                <select name="lstValue" id="ltsId1" multiple disabled></select>
+                <a href="#" id="add">Thêm địa điểm</a>
+                <br />
+            </div>
+        </div>
+        <!------------------------------------------------------------------>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <button class="w3-btn w3-hover-light-green" id="btnSubmit">Lưu thông tin</button>
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index", "tours")
+</div>
+@*---------------------------------------------------JQUERY để thêm list chitiettour---------------------------------------------------------------------*@
+@*-----------------------------------------------------------------------------------------------------------------------------*@
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @*-----function onchange lấy value và text selected option & lưu vào session-------------------------------------------------------------------------------------------------------------------*@
+    <script>
+        $(function () {
+            $("#IdDD").change(function () {
+                var value = $(this).val();
+                var text = $(this).find('option:selected').text();
+                sessionStorage.setItem("lstValue", value);
+                sessionStorage.setItem("lstText", text);
+            });
+        });
+    </script>
+    @*-----function onclick append thẻ <p><input> ẩn -> vào body để submit-------------------------------------------------------------------------------------------------------------------*@
+    @*-----Không tạo thêm thẻ <p> tránh jquery đếm sai-------------------------------------------------------------------------------------------------------------------*@
+    <script>
+        $(function () {
+            $("#add").click(function () {
+                var value = sessionStorage.getItem("lstValue");
+                var text = sessionStorage.getItem("lstText");
+                var lastSTT = @ViewBag.lastSTT;
+                var c = Number(sessionStorage.getItem("c"));//set biến c = 0 để làm biến tăng dần cho phần tử của list
+                var str = '<p style="display:none" ><input type="text" class="form-control" id="IDtour" name = "[' + c + '].IdTour" value=' + @ViewBag.IDTOUR + ' /></p>'
+                        + '<p style="display:none" ><input type="text" class="form-control" id="iddiadiem' + c + '" name="[' + c + '].IdDiaDiem" value = ' + value + ' /></p>'
+                        + '<p style="display:none" ><input type="text" class="form-control" name="[' + c + '].STTDiaDiem" value = ' + (c + 1 + lastSTT) + ' /></p>';
+                $("#Here").append(str);//append vào thẻ có id = "Here"
+                sessionStorage.setItem("str" + c, str);
+                if(value != null) c++;
+                sessionStorage.setItem("c", c);
+                //Hiển thị địa điểm vừa thêm vào listbox có id = "lstId1"
+                var listBox = $("#ltsId1");
+                var option = $("<option />").val(value).html(text);
+                listBox.append(option);//append vào listbox
+                sessionStorage.setItem("Value" + c, value);
+                sessionStorage.setItem("Text" + c, text);
+            });
+        });
+    </script>
+    @*-----function lấy dữ liệu session hiển thị sau khi load lại trang-------------------------------------------------------------------------------------------------------------------*@
+    <script>
+        function loadData() {
+            var c = Number(sessionStorage.getItem("c"));
+            for (i = 0; i <= c; i++) {
+                var str = sessionStorage.getItem("str" + i);
+                $("#Here").append(str);
+                var value = sessionStorage.getItem("Value" + i);
+                var text = sessionStorage.getItem("Text" + i);
+                var listBox = $("#ltsId1");
+                var option = $("<option />").val(value).html(text);
+                listBox.append(option);
+            }
+        };
+    </script>
+    @*-----function xóa dữ liệu session sau khi tạo thành công-------------------------------------------------------------------------------------------------------------------*@
+    <script>
+        function removeData() {
+            var c = Number(sessionStorage.getItem("c"));
+            for (i = 0; i <= c; i++) {
+                sessionStorage.removeItem("str" + i);
+                sessionStorage.removeItem("Value" + i);
+                sessionStorage.removeItem("Text" + i);
+            }
+            sessionStorage.removeItem("c");
+        };
+    </script>
+    @*-----function tạo <input> chứa điều kiện xác nhận lưu thông tin để submit-------------------------------------------------------------------------------------------------------------------*@
+    <script>
+        $(function () {
+            $("#btnSubmit").click(function () {
+                var s = 'true';
+                var c = Number(sessionStorage.getItem("c"));                
+                var st = '<input type="text" class="form-control" name="Saving" value="true" style="display:none" />'
+                        +'<input type="text" class="form-control" name="count" value=' + c + ' style="display:none" />';
+                $("#Here").append(st);
+                $("#form").submit();
+                removeData();
+            });
+        });
+    </script>
+
+    <script>
+        loadData();
+    </script>
+}

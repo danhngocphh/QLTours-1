@@ -1,0 +1,58 @@
+﻿@model QLTours.Models.doan
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>doan</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên tour
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tour.Ten)
+        </dd>
+
+        <dt>
+            Tên đoàn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ten)
+        </dd>
+
+        <dt>
+            Ngày đi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayDi)
+        </dd>
+
+        <dt>
+            Ngày về
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayVe)
+        </dd>
+
+        <dt>
+            Chi tiết chương trình
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChiTietChuongTrinh)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

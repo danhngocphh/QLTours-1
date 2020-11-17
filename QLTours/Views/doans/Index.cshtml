@@ -1,0 +1,65 @@
+﻿@model IEnumerable<QLTours.Models.doan>
+
+@{
+    ViewBag.Title = "Index";
+}
+    
+<p>
+
+    <h2>Quản lý đoàn</h2>
+
+</p>
+
+    <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+        <tr>
+            <th width="3%" align="left">
+                STT
+            </th>
+            <th width="10%" align="left">
+                Tên tour
+            </th>
+            <th width="20%" align="left">
+                Tên đoàn
+            </th>
+            <th width="5%" align="left">
+                Ngày đi
+            </th>
+            <th width="5%" align="left">
+                Ngày về
+            </th>
+            <th width="25%" align="left">
+                Chi tiết chương trình
+            </th>
+            <th width="17%" align="left"></th>
+        </tr>
+        @{ int counter = 0;}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @(++counter)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tour.Ten)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ten)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NgayDi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NgayVe)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ChiTietChuongTrinh)
+                </td>
+                <td>
+
+                    <button class="btn btn-info"> @Html.ActionLink("Edit", "Edit", new { id = item.Id }) </button>
+                    <button class="btn btn-info"> @Html.ActionLink("Delete", "Delete", new { id = item.Id }) </button>
+                </td>
+            </tr>
+        }
+
+    </table>

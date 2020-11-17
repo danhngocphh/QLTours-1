@@ -1,0 +1,525 @@
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\QLTours.dll.config
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\QLTours.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\QLTours.pdb
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\csc.exe
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\csc.exe.config
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\csc.rsp
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\csi.exe
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\csi.exe.config
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\csi.rsp
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.AppContext.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Console.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.IO.Compression.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Security.Claims.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.ValueTuple.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\vbc.exe
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\vbc.exe.config
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\vbc.rsp
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Antlr3.Runtime.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\EntityFramework.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\EntityFramework.SqlServer.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Newtonsoft.Json.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Owin.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.Helpers.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.Mvc.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.Optimization.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.Razor.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.WebPages.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.WebPages.Razor.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\WebGrease.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.Helpers.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.Mvc.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.Optimization.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.Razor.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.WebPages.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\System.Web.WebPages.Razor.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Newtonsoft.Json.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Antlr3.Runtime.pdb
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\EntityFramework.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\EntityFramework.SqlServer.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tieud\source\repos\QLTours\QLTours\obj\Debug\QLTours.csprojAssemblyReference.cache
+C:\Users\tieud\source\repos\QLTours\QLTours\obj\Debug\QLTours.csproj.CoreCompileInputs.cache
+C:\Users\tieud\source\repos\QLTours\QLTours\obj\Debug\QLTours.csproj.CopyComplete
+C:\Users\tieud\source\repos\QLTours\QLTours\obj\Debug\QLTours.dll
+C:\Users\tieud\source\repos\QLTours\QLTours\obj\Debug\QLTours.pdb
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\obj\Debug\QLTours.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\obj\Debug\QLTours.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\obj\Debug\QLTours.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\obj\Debug\QLTours.pdb
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\QLTours.dll.config
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\QLTours.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\QLTours.pdb
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\csc.exe
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\csc.exe.config
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\csc.rsp
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\csi.exe
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\csi.exe.config
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\csi.rsp
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.AppContext.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Console.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.IO.Compression.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.IO.Pipes.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Security.Claims.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.ValueTuple.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\vbc.exe
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\vbc.exe.config
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\vbc.rsp
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Antlr3.Runtime.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\EntityFramework.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Newtonsoft.Json.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Owin.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.Helpers.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.Mvc.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.Optimization.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.Razor.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.WebPages.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.WebPages.Razor.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\WebGrease.dll
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.Helpers.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.Mvc.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.Optimization.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.Razor.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.WebPages.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\System.Web.WebPages.Razor.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Newtonsoft.Json.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Antlr3.Runtime.pdb
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\EntityFramework.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PC\Documents\GitHub\QLTours\QLTours\obj\Debug\QLTours.csproj.CopyComplete
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\obj\Debug\QLTours.csprojAssemblyReference.cache
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\obj\Debug\QLTours.csproj.CoreCompileInputs.cache
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\obj\Debug\QLTours.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\obj\Debug\QLTours.pdb
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\QLTours.dll.config
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\QLTours.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\QLTours.pdb
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\csc.exe
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\csc.exe.config
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\csc.rsp
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\csi.exe
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\csi.exe.config
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\csi.rsp
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.AppContext.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Console.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.IO.Compression.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Security.Claims.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.ValueTuple.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\vbc.exe
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\vbc.exe.config
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\vbc.rsp
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Antlr3.Runtime.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\EntityFramework.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\EntityFramework.SqlServer.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Newtonsoft.Json.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Owin.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.Helpers.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.Mvc.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.Optimization.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.Razor.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.WebPages.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.WebPages.Razor.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\WebGrease.dll
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.Helpers.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.Mvc.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.Optimization.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.Razor.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.WebPages.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\System.Web.WebPages.Razor.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Newtonsoft.Json.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Antlr3.Runtime.pdb
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\EntityFramework.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\EntityFramework.SqlServer.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tieud\Downloads\QLTours (1)\QLTours\QLTours\obj\Debug\QLTours.csproj.CopyComplete
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\QLTours.dll.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\QLTours.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\QLTours.pdb
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\csc.exe
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\csc.exe.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\csc.rsp
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\csi.exe
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\csi.exe.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\csi.rsp
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.AppContext.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Console.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.IO.Compression.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Security.Claims.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.ValueTuple.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\vbc.exe
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\vbc.exe.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\vbc.rsp
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Antlr3.Runtime.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\EntityFramework.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\EntityFramework.SqlServer.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Newtonsoft.Json.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Owin.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.Helpers.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.Mvc.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.Optimization.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.Razor.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.WebPages.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.WebPages.Razor.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\WebGrease.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.Helpers.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.Mvc.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.Optimization.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.Razor.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.WebPages.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\System.Web.WebPages.Razor.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Newtonsoft.Json.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Antlr3.Runtime.pdb
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\EntityFramework.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\EntityFramework.SqlServer.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\obj\Debug\QLTours.csprojAssemblyReference.cache
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\obj\Debug\QLTours.csproj.CoreCompileInputs.cache
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\obj\Debug\QLTours.csproj.CopyComplete
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\obj\Debug\QLTours.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours_GiaoDien+Code(main)\QLTours\QLTours\obj\Debug\QLTours.pdb
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\QLTours.dll.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\QLTours.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\QLTours.pdb
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\csc.exe
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\csc.exe.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\csc.rsp
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\csi.exe
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\csi.exe.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\csi.rsp
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.AppContext.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Console.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.IO.Compression.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Security.Claims.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.ValueTuple.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\vbc.exe
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\vbc.exe.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\vbc.rsp
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Antlr3.Runtime.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\EntityFramework.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\EntityFramework.SqlServer.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Newtonsoft.Json.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Owin.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.Helpers.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.Mvc.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.Optimization.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.Razor.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.WebPages.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.WebPages.Razor.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\WebGrease.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.Helpers.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.Mvc.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.Optimization.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.Razor.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.WebPages.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\System.Web.WebPages.Razor.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Newtonsoft.Json.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Antlr3.Runtime.pdb
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\EntityFramework.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\EntityFramework.SqlServer.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\obj\Debug\QLTours.csprojAssemblyReference.cache
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\obj\Debug\QLTours.csproj.CoreCompileInputs.cache
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\obj\Debug\QLTours.csproj.CopyComplete
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\obj\Debug\QLTours.dll
+C:\Users\tieud\OneDrive\PhanMemPhanLop\QLTours\QLTours\obj\Debug\QLTours.pdb

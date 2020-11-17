@@ -1,0 +1,50 @@
+﻿@model QLTours.Models.chiphi
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>chiphi</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên đoàn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.doan.Ten)
+        </dd>
+
+        <dt>
+            Tên loại chi phí
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.loaichiphi.Ten)
+        </dd>
+
+        <dt>
+            Tổng tiền (Đồng)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Total)
+        </dd>
+
+        <dt>
+            Chi tiết
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChiTiet)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
